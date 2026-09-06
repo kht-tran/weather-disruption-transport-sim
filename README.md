@@ -1,6 +1,17 @@
 # Compound Weather Disruption and Passenger Stranding in the European Rail–Air Network
 ### Agent-Based Simulation
 
+## Overview
+This project simulates how passengers redistribute across a 53-city European rail-air network when compound weather events disrupt multiple transport nodes at once (e.g. a storm closing both airports and rail lines in the same region). 
+
+It combines a gravity-calibrated agent-based model with a Bass-style information diffusion layer to study *why* certain cities end up with stranded travelers — and whether simply being aware of a disruption is enough to avoid it.
+
+## Key Results
+- **Topology, not awareness, drives stranding.** When no path exists through the network, informing passengers earlier doesn't change the outcome — stranding is a structural property of the network, not an information problem.
+- **Compound disruptions are qualitatively different from single-mode ones.** Disrupting rail or air alone produces little to no stranding; it's the *simultaneous* failure of both that creates real impact, supporting the interdependent-network-failure literature this model builds on.
+- **Peripheral, single-mode-dependent cities are the most exposed** — even when they aren't the ones directly hit by the disruption, cities that rely on one fragile corridor absorb the most secondary stranding.
+- **Validated against a real event** (Storm Ciaran, Nov 2023) as an external plausibility check, with simulated stranding patterns tracking real-world disruption severity.
+
 ---
 
 ## Requirements
