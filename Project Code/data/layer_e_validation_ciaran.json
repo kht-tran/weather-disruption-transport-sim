@@ -1,0 +1,33 @@
+{
+  "event": "Storm Ciaran, Nov 1-2 2023",
+  "baseline_method": "multi-year normalised ratio (2022/2024/2025)",
+  "calibration_event": "Storm Eunice, Feb 18-19 2022",
+  "p_reschedule": 0.12,
+  "reroute_every": 4,
+  "disrupted_nodes": [
+    "Amsterdam",
+    "Brussels",
+    "Hamburg",
+    "Lisbon",
+    "Lyon",
+    "Madrid",
+    "Palma",
+    "Rotterdam",
+    "Strasbourg",
+    "Stuttgart",
+    "Toulouse"
+  ],
+  "n_disrupted": 11,
+  "overflow_targets": {
+    "Palermo": 0.2639,
+    "Porto": 0.1037,
+    "Seville": 0.1471
+  },
+  "n_overflow_targets": 3,
+  "overlap_cities": [],
+  "n_overlap": 0,
+  "overflow_spearman_rho": null,
+  "spearman_pvalue": null,
+  "total_stranded": 234.1,
+  "top_stranded_city": "Madrid"
+}

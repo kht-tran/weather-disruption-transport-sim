@@ -1,0 +1,10 @@
+{
+  "reroute_every": 4,
+  "p_reschedule": 0.05,
+  "overflow_spearman_rho_calib": 0.5,
+  "calibration_event": "eunice",
+  "n_runs_calibration": 3,
+  "note": "reroute_every fixed at 4 (Prague/Haneda literature). p_reschedule calibrated via overflow Spearman \u03c1 between OPDI flight-increase signal at non-disrupted cities and ABM in-transit agent accumulation. Validated on Dec 2022 Heathrow snow event (held-out).",
+  "overflow_spearman_rho_validation": 0.1626038022427585,
+  "face_validity_london_top": true
+}

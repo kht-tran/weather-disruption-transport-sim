@@ -1,0 +1,54 @@
+city,country,lat,lon,population_k,pop_source,pop_year
+London,GB,51.50853,-0.12574,8945.0,GLA mid-year estimate,2023.0
+Paris,FR,48.85341,2.3488,10354.0,Eurostat urb_cpop1,2022.0
+Amsterdam,NL,52.37403,4.88969,1060.0,Eurostat urb_cpop1,2023.0
+Brussels,BE,50.85045,4.34878,1253.0,Eurostat urb_cpop1,2023.0
+Frankfurt,DE,50.11552,8.68417,773.0,Eurostat urb_cpop1,2023.0
+Berlin,DE,52.52437,13.41053,3755.0,Eurostat urb_cpop1,2023.0
+Hamburg,DE,53.55073,9.99302,1892.0,Eurostat urb_cpop1,2023.0
+Munich,DE,48.13743,11.57549,1512.0,Eurostat urb_cpop1,2023.0
+Cologne,DE,50.93333,6.95,1085.0,Eurostat urb_cpop1,2023.0
+Stuttgart,DE,48.78232,9.17702,633.0,Eurostat urb_cpop1,2023.0
+Zurich,CH,47.36667,8.55,711.0,Eurostat urb_cpop1,2023.0
+Geneva,CH,46.20222,6.14569,423.0,Eurostat urb_cpop1,2023.0
+Vienna,AT,48.20849,16.37208,1982.0,Statistik Austria Bevölkerungsstand 1.1.2023,2023.0
+Milan,IT,45.46427,9.18951,3581.0,Eurostat urb_cpop1,2023.0
+Venice,IT,45.43713,12.33265,251.0,Eurostat urb_cpop1,2023.0
+Turin,IT,45.07049,7.68682,847.0,Eurostat urb_cpop1,2023.0
+Rome,IT,41.89193,12.51133,2755.0,Eurostat urb_cpop1,2023.0
+Naples,IT,40.85216,14.26811,2809.0,Eurostat urb_cpop1,2023.0
+Madrid,ES,40.4165,-3.70256,5115.0,Eurostat urb_cpop1,2023.0
+Barcelona,ES,41.38879,2.15899,3767.0,Eurostat urb_cpop1,2023.0
+Valencia,ES,39.47391,-0.37966,1440.0,Eurostat urb_cpop1,2023.0
+Seville,ES,37.38283,-5.97317,881.0,Eurostat urb_cpop1,2023.0
+Lisbon,PT,38.72509,-9.1498,1891.0,Eurostat urb_cpop1,2023.0
+Porto,PT,41.1485,-8.61097,990.0,Eurostat urb_cpop1,2023.0
+Lyon,FR,45.74906,4.84789,1296.0,Eurostat urb_cpop1,2022.0
+Marseille,FR,43.29695,5.38107,976.0,Eurostat urb_cpop1,2022.0
+Toulouse,FR,43.60426,1.44367,775.0,Eurostat urb_cpop1,2022.0
+Strasbourg,FR,48.58392,7.74553,436.0,Eurostat urb_cpop1,2022.0
+Rotterdam,NL,51.9225,4.47917,1264.0,Eurostat urb_cpop1,2023.0
+Lille,FR,50.63391,3.05512,967.0,Eurostat urb_cpop1,2022.0
+The Hague,NL,52.07667,4.29861,805.0,Eurostat urb_cpop1,2023.0
+Bilbao,ES,43.26271,-2.92528,790.0,Eurostat urb_cpop1,2023.0
+Bordeaux,FR,44.84124,-0.58046,774.0,Eurostat urb_cpop1,2022.0
+Dusseldorf,DE,51.22319,6.77927,629.0,Eurostat urb_cpop1,2023.0
+Palermo,IT,38.1166,13.3636,632.0,Eurostat urb_cpop1,2023.0
+Leipzig,DE,51.33962,12.37129,616.0,Eurostat urb_cpop1,2023.0
+Dortmund,DE,51.51494,7.466,593.0,Eurostat urb_cpop1,2023.0
+Malaga,ES,36.72016,-4.42034,,,
+Essen,DE,51.45657,7.01228,585.0,Eurostat urb_cpop1,2023.0
+Bremen,DE,53.07582,8.80717,569.0,Eurostat urb_cpop1,2023.0
+Dresden,DE,51.05089,13.73832,563.0,Eurostat urb_cpop1,2023.0
+Genoa,IT,44.40478,8.94439,561.0,Eurostat urb_cpop1,2023.0
+Hannover,DE,52.37052,9.73322,545.0,Eurostat urb_cpop1,2023.0
+Antwerp,BE,51.22047,4.40026,541.0,Eurostat urb_cpop1,2023.0
+Nuremberg,DE,49.45421,11.07752,523.0,Eurostat urb_cpop1,2023.0
+Duisburg,DE,51.43247,6.76516,502.0,Eurostat urb_cpop1,2023.0
+Nantes,FR,47.21725,-1.55336,501.0,Eurostat urb_cpop1,2022.0
+Nice,FR,43.70313,7.26608,476.0,Eurostat urb_cpop1,2022.0
+Murcia,ES,37.98704,-1.13004,468.0,Eurostat urb_cpop1,2023.0
+Utrecht,NL,52.09083,5.12222,467.0,Eurostat urb_cpop1,2023.0
+Palma,ES,39.56939,2.65024,431.0,Eurostat urb_cpop1,2023.0
+Granada,ES,37.18817,-3.60667,409.0,Eurostat urb_cpop1,2023.0
+Liege,BE,50.63373,5.56749,408.0,Eurostat urb_cpop1,2023.0
